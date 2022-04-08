@@ -19,3 +19,7 @@ def test_division():
 
 def test_multiply():
     assert multiply(num1, num2) == 4, f"ОШИБКА: ====== проверки умножения {num1} и {num2} ======="
+
+
+def test_square():
+    assert square(num1) == 4, f"ОШИБКА: ====== проверки возведения в квадрат {num1} ======"
