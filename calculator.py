@@ -13,3 +13,6 @@ def division(one, two):
 def multiply(one, two):
     return one * two
 
+
+def square(one):
+    return one * one
