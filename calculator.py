@@ -7,7 +7,10 @@ def subtract(one, two):
 
 
 def division(one, two):
-    return one / two
+    if two != 0:
+        return one / two
+    else:
+        return False
 
 
 def multiply(one, two):
