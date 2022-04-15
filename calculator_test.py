@@ -13,8 +13,11 @@ def test_subtract():
     assert subtract(num1, num2) == 0, f"ОШИБКА: ===== проверки вычитания {num1} и {num2} ====="
 
 
-def test_division():
-    assert division(num1, num2) == 1, f"ОШИБКА: ===== проверки деления {num1} и {num2} ====="
+def test_division2():
+    if not division(num1, num2):
+        print('Деление на 0')
+    else:
+        assert division(num1, num2) == 1, f"ОШИБКА: ===== проверки деления {num1} и {num2} ====="
 
 
 def test_multiply():
