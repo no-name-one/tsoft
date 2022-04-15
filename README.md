@@ -1,6 +1,6 @@
 # calculator.py
-<img width="1661" alt="calculator" src="https://user-images.githubusercontent.com/103245090/162415003-fc1e959b-253f-42eb-ac47-27552729cb31.png">
+<img width="1680" alt="Снимок экрана 2022-04-15 в 14 23 09" src="https://user-images.githubusercontent.com/103245090/163565261-454c29d4-a9f4-4ba7-9db3-ab35fa8536dc.png">
 
 
 # calculator_test.py
-<img width="1661" alt="screen" src="https://user-images.githubusercontent.com/103245090/162414597-c4f484c2-4199-48f5-b8c8-476f03a3c1e4.png">
+<img width="1680" alt="Снимок экрана 2022-04-15 в 14 23 01" src="https://user-images.githubusercontent.com/103245090/163565285-866b2ade-28ee-420e-9574-6ec24ce43bae.png">
